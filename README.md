@@ -102,7 +102,7 @@ This needs to be the full path of the log file included or any log file you'd li
 
 ## Running your script via Crontab
 
-You can run your script by setting a cronjob. You can find more details my searching for [creating cron jobs](https://www.google.com/search?q=creating+cron+jobs&oq=creating+cronjo&aqs=chrome.1.69i57j0l5.6154j0j4&sourceid=chrome&espv=210&es_sm=91&ie=UTF-8).
+You can run your script by setting a cronjob. You can find more details by searching for [creating cron jobs](https://www.google.com/search?q=creating+cron+jobs&oq=creating+cronjo&aqs=chrome.1.69i57j0l5.6154j0j4&sourceid=chrome&espv=210&es_sm=91&ie=UTF-8).
 
 Start a new Crontab
 
