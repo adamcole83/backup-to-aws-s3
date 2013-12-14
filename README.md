@@ -104,7 +104,13 @@ This needs to be the full path of the log file included or any log file you'd li
 
 You can run your script by setting a cronjob. You can find more details my searching for [creating cron jobs](https://www.google.com/search?q=creating+cron+jobs&oq=creating+cronjo&aqs=chrome.1.69i57j0l5.6154j0j4&sourceid=chrome&espv=210&es_sm=91&ie=UTF-8).
 
+Start a new Crontab
+
 ```
-# Run task every 5 days at 3am
+sudo crontab -e
+```
+
+Set task for every 5 days at 3am
+```
 0 3 */5 * * /backup/backup.sh
 ```
